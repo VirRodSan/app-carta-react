@@ -1,0 +1,15 @@
+.categoria {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.categoria-titulo {
+    color: #333;
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+.productos-lista {
+    max-width: 600px;
+    margin: 0 auto;
+}
